@@ -8,7 +8,7 @@ User experience! At least, that's what your project manager told you when they i
 - The output will only contain words separated by spaces, no hyphens.
 - The ten's or ten thousand's place may consist of two words (`34` as `"thirty four"`) or one word (`12` as `"twelve"`).
 - Numbers with at least three digits will include the word "hundred", for example `450` as `"four hundred and fifty"`.
-- NUmbers with at least four digits will include the word "thousand", for example `2861` as `"two thousand eight hundred and sixty one"`.
+- Numbers with at least four digits will include the word "thousand", for example `2861` as `"two thousand eight hundred and sixty one"`.
 
 ## Examples
 
