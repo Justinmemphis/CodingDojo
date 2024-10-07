@@ -1,6 +1,6 @@
 # Name That Number
 
-User experience! At least, that's what your project manage told you when they introduced this user story. "As a user, I need to be able to read all numbers displayed in the application as English words without needing to translate them myself." Seems like a bit of unnecessary hand-holding to you, but all you get to vote on is how many story points this feature will be worth. Oh well, at least it's a good opportunity to practice your TDD on company time. For this task, you'll need to write a function that takes in a six-digit number and returns it's string representation as English words. For example, `578119` becomes `"five hundred and seventy eight thousand one hundred and nineteen"`.
+User experience! At least, that's what your project manager told you when they introduced this user story. "As a user, I need to be able to read all numbers displayed in the application as English words without needing to translate them myself." Seems like a bit of unnecessary hand-holding to you, but all you get to vote on is how many story points this feature will be worth. Oh well, at least it's a good opportunity to practice your TDD on company time. For this task, you'll need to write a function that takes in a six-digit number and returns its string representation as English words. For example, `578119` becomes `"five hundred and seventy eight thousand one hundred and nineteen"`.
 
 ## Business Rules/Errata
 
