@@ -18,3 +18,18 @@ NameNumber(010101) -> "ten thousand one hundred and one"
 NameNumber(500020) -> "five hundred thousand and twenty"
 NameNumber(123456) -> "one hundred and twenty three thousand four hundred and fifty six"
 ```
+
+## Tackling This Challenge
+
+1. Make sure you've got the required software on your machine: .NET SDK 8.0+
+1. If you haven't already, fork the CodingDojo repository ([INSTRUCTIONS](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)).
+1. Checkout a new branch using `git checkout -b yourgithubusername-wip`.
+1. Add your code to the solution file to make the puzzle function work as expected.
+1. Confirm your solution by running tests. Execute the `run-tests` script (use `./run-tests` from the challenge root directory.
+1. If you've passed all the tests, the `run-tests` script with help you commit it. Otherwise, try again to pass all tests.
+1. Navigate to [GitHub](https://github.com/codeconnector/CodingDojo), and submit your pull request.
+1. One of the CodingDojo maintainers will help you get your PR merged.
+
+## Requirements
+
+- .NET SDK 8.0+

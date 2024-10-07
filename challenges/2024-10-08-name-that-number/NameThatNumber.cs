@@ -39,4 +39,16 @@ public class NameThatNumber
 
     [Fact]
     public void TestCaseSevenHundredTwelveThousandEightHundredTwentySix() { RunTest(712826, "seven hundred and twelve thousand eight hundred and twenty six"); }
+
+
+    [Fact]
+    public void TestCaseSevenThousand() { RunTest(007000, "seven thousand"); }
+
+
+    [Fact]
+    public void TestCaseOneHundredThousand() { RunTest(100000, "one hundred thousand"); }
+
+
+    [Fact]
+    public void TestCaseNineHundredNinetyNineThousandNineHundredNinetyNine() { RunTest(999999, "nine hundred and ninety nine thousand nine hundred and ninety nine"); }
 }
